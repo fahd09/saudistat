@@ -1,0 +1,20 @@
+{% extends "layout.html" %}
+
+{% block body %}
+
+
+<h2>Saudi Population</h2>
+<div id="viz"></div>
+
+<script>
+  var data = {{entries|safe}}
+  d3plus.viz()
+    .container("#viz")
+    .data(data)
+    .type("pie")
+    .id("name")
+    .size("value")
+    .draw()
+</script>
+
+{% endblock %}
