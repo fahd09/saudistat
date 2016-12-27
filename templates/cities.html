@@ -1,0 +1,45 @@
+{% extends "layout.html" %}
+
+{% block body %}
+
+
+<h2>City Population</h2>
+<h3>Jazan</h3>
+
+<p> First </p>
+<div id="viz1"></div>
+
+<p> Second </p>
+<div id="viz2"></div>
+
+<p> Third </p>
+<div id="viz3"></div>
+
+<script>
+  var data = {{entries|safe}}
+  d3plus.viz()
+    .container("#viz1")
+    .data(data)
+    .type("pie")
+    .id("name")
+    .size("value")
+    .draw()
+    
+  d3plus.viz()
+    .container("#viz2")
+    .data(data)
+    .type("pie")
+    .id("name")
+    .size("value")
+    .draw()
+
+  d3plus.viz()
+    .container("#viz3")
+    .data(data)
+    .type("pie")
+    .id("name")
+    .size("value")
+    .draw()    
+</script>
+
+{% endblock %}

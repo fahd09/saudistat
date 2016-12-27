@@ -1,0 +1,53 @@
+,city,sex,status,value
+0,Riyadh,Male,Labor Force,3026668
+1,Makkah,Male,Labor Force,2946998
+2,Madinah,Male,Labor Force,642503
+3,Qassim,Male,Labor Force,519791
+4,Easte. Prov.,Male,Labor Force,1842555
+5,Asir,Male,Labor Force,657833
+6,Tabuk,Male,Labor Force,286978
+7,Hail,Male,Labor Force,216626
+8,North.Bord.,Male,Labor Force,110527
+9,Jazan,Male,Labor Force,452935
+10,Najran,Male,Labor Force,175493
+11,AL - Baha,Male,Labor Force,148191
+12,AL - Jouf,Male,Labor Force,160283
+13,Riyadh,Female,Labor Force,516247
+14,Makkah,Female,Labor Force,394264
+15,Madinah,Female,Labor Force,130249
+16,Qassim,Female,Labor Force,115344
+17,Easte. Prov.,Female,Labor Force,291546
+18,Asir,Female,Labor Force,153629
+19,Tabuk,Female,Labor Force,53952
+20,Hail,Female,Labor Force,44776
+21,North.Bord.,Female,Labor Force,29933
+22,Jazan,Female,Labor Force,111024
+23,Najran,Female,Labor Force,34078
+24,AL - Baha,Female,Labor Force,34831
+25,AL - Jouf,Female,Labor Force,31256
+26,Riyadh,Male,Outside Labor Force,717279
+27,Makkah,Male,Outside Labor Force,710706
+28,Madinah,Male,Outside Labor Force,226499
+29,Qassim,Male,Outside Labor Force,118902
+30,Easte. Prov.,Male,Outside Labor Force,424549
+31,Asir,Male,Outside Labor Force,220609
+32,Tabuk,Male,Outside Labor Force,76297
+33,Hail,Male,Outside Labor Force,70711
+34,North.Bord.,Male,Outside Labor Force,34333
+35,Jazan,Male,Outside Labor Force,168326
+36,Najran,Male,Outside Labor Force,58917
+37,AL - Baha,Male,Outside Labor Force,43575
+38,AL - Jouf,Male,Outside Labor Force,49534
+39,Riyadh,Female,Outside Labor Force,1820880
+40,Makkah,Female,Outside Labor Force,2224450
+41,Madinah,Female,Outside Labor Force,510441
+42,Qassim,Female,Outside Labor Force,300884
+43,Easte. Prov.,Female,Outside Labor Force,1079432
+44,Asir,Female,Outside Labor Force,537939
+45,Tabuk,Female,Outside Labor Force,210951
+46,Hail,Female,Outside Labor Force,172772
+47,North.Bord.,Female,Outside Labor Force,81383
+48,Jazan,Female,Outside Labor Force,389886
+49,Najran,Female,Outside Labor Force,138540
+50,AL - Baha,Female,Outside Labor Force,126204
+51,AL - Jouf,Female,Outside Labor Force,109606
